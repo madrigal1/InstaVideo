@@ -1,0 +1,3 @@
+[submodule "instavideo-frontend"]
+	path = instavideo-frontend
+	url = https://github.com/madrigal1/instavideo-frontend
